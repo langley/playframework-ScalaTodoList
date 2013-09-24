@@ -1,4 +1,4 @@
-name := "todolist"
+name := "playframework-ScalaTodoList"
 
 version := "1.0-SNAPSHOT"
 
