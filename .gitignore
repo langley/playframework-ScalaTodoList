@@ -6,6 +6,7 @@
 !.gitignore
 
 # .gitignore settings that Play creates
+bin
 logs
 project/project
 project/target
